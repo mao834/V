@@ -5,3 +5,4 @@ $('.js-open-envelope').on('click', function (event) {
   $self.find('.heart use').attr("xlink:href", "#icon-heart-broken");
   $self.find('.envelope__card').addClass('open');
 });
+<script src="script.js"></script>
